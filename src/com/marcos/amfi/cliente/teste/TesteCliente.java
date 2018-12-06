@@ -9,6 +9,7 @@ public class TesteCliente {
 		Cliente higor = new Cliente("Higor", "(85)99999-9999","email@email.com", "Invista", "Desenvolvedor", "30/03/1996");
 		
 		System.out.println(higor.getEmpresa());
+		System.out.println(higor.getTelefone());
 		
 	}
 
